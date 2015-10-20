@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
+<meta charset="UTF-8">
 <meta name="description" content="about ct" />
 <meta name="viewport" content="width=device-width, initial-scale=1"><!-- media queries -->
 <link rel="shortcut icon" href="/images/favicon.ico">
