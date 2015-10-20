@@ -7,8 +7,8 @@ $(document).ready(function(){
 </script>
 
 
-
-<header class="top_bar">
+<header>
+<nav class="top_bar">
 	<div class="top_bar_inner">
 		<a href="#work" class="nav_jump">Work</a>
 		<a href="#skills" class="nav_jump">Skills</a>
@@ -16,7 +16,7 @@ $(document).ready(function(){
 		<a href="#about" class="nav_jump">About</a>
 		<a href="#contact" class="nav_jump">Contact</a>
 	</div>
-</header>
+</nav>
 
 <div class="container_outter">
 	<div class="container_inner">
@@ -24,15 +24,12 @@ $(document).ready(function(){
 		<div class="container_inner_header">
 			<div class="header_left">
 				<div class="head_text">Chelsea Town</div>
-				<h2>Frontend Engineer</h2>
+				<h2>Frontend Engineer & UI Developer</h2>
 			</div>
 		
-			<div class="header_right">				
-				<img src="/images/head_cjt_grey.jpg" class="head_img2">
-			</div>
+
 		</div>
 	
 	</div>	
 </div>
-
-
+</header>

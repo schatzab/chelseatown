@@ -48,10 +48,6 @@
 	<div class="footer_main_container_inner">
 		<div class="footer_bottomline">Code & Design from scratch by Chelsea Town &copy; <?php echo date("Y"); ?></div>
 	</div>
-	
-
 </footer>
-
-</center>
 </body>
 </html>

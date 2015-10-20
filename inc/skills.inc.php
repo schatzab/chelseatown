@@ -1,10 +1,10 @@
 <!-- Skills -->
 
-<div class="skills_main_container" id="skills" name="skills">
+<section class="skills_main_container" id="skills" name="skills">
 	<br><br>
 	<h1>Some Skills I'm Proud Of</h1>	
 
-	<div class="skills_main_container_inner">
+	<article class="skills_main_container_inner">
 		<h2>
 		<div class="skills_main_box_l">
 			<div class="skills_hi_lite">Front End Coding <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></div>
@@ -43,5 +43,5 @@
 			<div class="skills_hi_lite">Voice Over <span>&#9733;&#9733;&#9733;</span></div>
 		</div>
 		</h2>
-	</div>
-</div>
+	</article>
+</section>
