@@ -17,7 +17,6 @@
 			<div class="skills_hi_lite">Adobe Photoshop <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></div>
 			<div class="skills_hi_lite">Adobe Illustrator <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></div>
 			<div class="skills_hi_lite">Responsive Design <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></div>
-			<div class="skills_hi_lite">Software Testing <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></div>
 			<div class="skills_hi_lite">Bootstrap <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></div>
 			<div class="skills_hi_lite">Windows, MacOS, Android<span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></div>
 			<div class="skills_hi_lite">Crossfit Training<span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></div>
@@ -28,18 +27,18 @@
 		</div>
 
 		<div class="skills_main_box_r" >
+			<div class="skills_hi_lite">Software Testing <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></div>
 			<div class="skills_hi_lite">Technical Support <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></div>
 			<div class="skills_hi_lite">Graphic Design <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></div>
-			<div class="skills_hi_lite">Adobe InDesign <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></div>			
-			<div class="skills_hi_lite">Back End Coding <span>&#9733;&#9733;&#9733;&#9733;</span></div>
+			<div class="skills_hi_lite">Adobe InDesign <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></div>
+			<div class="skills_hi_lite">Balsamiq <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></div>
+			<div class="skills_hi_lite">SQL / MySQL <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></div>			
 			<div class="skills_hi_lite">Running, 50k, 26.2m<span>&#9733;&#9733;&#9733;&#9733;</span></div>			
 			<div class="skills_hi_lite">Copy Editing <span>&#9733;&#9733;&#9733;&#9733;</span></div>
 			<div class="skills_hi_lite">User Experience <span>&#9733;&#9733;&#9733;&#9733;</span></div>
 			<div class="skills_hi_lite">Computer Hardware <span>&#9733;&#9733;&#9733;&#9733;</span></div>
-			<div class="skills_hi_lite">Balsamiq <span>&#9733;&#9733;&#9733;&#9733;</span></div>
-			<div class="skills_hi_lite">PHP <span>&#9733;&#9733;&#9733;</span></div>
-			<div class="skills_hi_lite">MySQL <span>&#9733;&#9733;&#9733;</span></div>
-			<div class="skills_hi_lite">Search Engine Optimization <span>&#9733;&#9733;&#9733;</span></div>
+			<div class="skills_hi_lite">PHP <span>&#9733;&#9733;&#9733;&#9733;</span></div>
+			<div class="skills_hi_lite">Search Engine Optimization <span>&#9733;&#9733;&#9733;&#9733;</span></div>
 			<div class="skills_hi_lite">Video Editing <span>&#9733;&#9733;&#9733;</span></div>
 			<div class="skills_hi_lite">Voice Over <span>&#9733;&#9733;&#9733;</span></div>
 		</div>
