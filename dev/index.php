@@ -14,11 +14,11 @@
 <!-- header -->		
  <?php include("inc/header.inc.php"); ?> </div> 
 
-<div class="jumbotron">
+<section class="jumbotron">
   <div class="container">
-    ...
+    <?php include("inc/skills.inc.php"); ?> </div> 
   </div>
-</div>
+</section>
 
 
 
