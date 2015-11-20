@@ -12,18 +12,13 @@
 </head>
 <body>
 <!-- header -->		
- <?php include("inc/header.inc.php"); ?> </div> 
-
-<section class="jumbotron">
-  <div class="container">
-    <?php include("inc/skills.inc.php"); ?> </div> 
-  </div>
-</section>
-
-
-
+<?php include("inc/header.inc.php"); ?></div> 
+<!-- skills -->	
+<?php include("inc/skills.inc.php"); ?></div> 
+<!-- about -->	
+<?php include("inc/about.inc.php"); ?></div> 
 <!-- footer -->		
- <?php include("inc/footer.inc.php"); ?> </div> 
+<?php include("inc/footer.inc.php"); ?></div> 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
