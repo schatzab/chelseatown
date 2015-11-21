@@ -5,8 +5,9 @@
         	<div class="head_text">Chelsea Town</div>
      	</a>
       	<ul class="nav nav-pills ct_nav">
-  			<li role="presentation" class=""><a href="#">Contact</a></li>
   			<li role="presentation" class=""><a href="#">About</a></li>
+        <li role="presentation" class=""><a href="#">Skills</a></li>        
+        <li role="presentation" class=""><a href="#">Contact</a></li>
 		</ul>
 	  </div>
   </nav>   

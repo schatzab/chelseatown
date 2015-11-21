@@ -18,6 +18,8 @@
 <!-- skills -->	
 <?php include("inc/skills.inc.php"); ?></div> 
 <!-- footer -->		
+<?php include("inc/contact.inc.php"); ?></div> 
+<!-- contact -->	
 <?php include("inc/footer.inc.php"); ?></div> 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
