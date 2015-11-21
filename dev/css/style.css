@@ -7,4 +7,11 @@ body {
 .ct_nav {
   float: right; }
 
+.ct_section_white {
+  background-color: #ffffff; }
+
+.ct_section_brown {
+  background-color: #292929;
+  color: #4c4b4b; }
+
 /*# sourceMappingURL=style.css.map */

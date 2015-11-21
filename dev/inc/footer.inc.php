@@ -1,5 +1,7 @@
-<div class="container">
-  <div class="page-footer">
-    Chelsea Town &copy; <?php echo date("Y"); ?>
-  </div>    
-</div>
+<footer class="page-footer">
+	<section class="jumbotron ct_section_brown">
+	  <div class="container">
+	    Coded & Designed by Chelsea Town &copy; <?php echo date("Y"); ?>
+	  </div>
+  </section>    
+</footer>

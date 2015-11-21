@@ -13,10 +13,10 @@
 <body>
 <!-- header -->		
 <?php include("inc/header.inc.php"); ?></div> 
-<!-- skills -->	
-<?php include("inc/skills.inc.php"); ?></div> 
 <!-- about -->	
 <?php include("inc/about.inc.php"); ?></div> 
+<!-- skills -->	
+<?php include("inc/skills.inc.php"); ?></div> 
 <!-- footer -->		
 <?php include("inc/footer.inc.php"); ?></div> 
 

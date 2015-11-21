@@ -1,9 +1,22 @@
 body { 
 	padding-top: 70px;
   }
+
+$black-brown: #292929;
+$light-brown: #4c4b4b;
+$white: #ffffff;
+
+
 .head_text {
 	font-family: 'Leckerli One', cursive;
 }
 .ct_nav {
 	float: right;
+}
+.ct_section_white {
+	background-color: $white;
+}
+.ct_section_brown {
+	background-color: $black-brown;
+	color: $light-brown;
 }
