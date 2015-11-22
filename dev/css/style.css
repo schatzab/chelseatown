@@ -1,6 +1,3 @@
-body {
-  padding-top: 70px; }
-
 .head_text {
   font-family: 'Leckerli One', cursive; }
 
@@ -9,6 +6,9 @@ body {
 
 .ct_section_white {
   background-color: #ffffff; }
+
+.ct_section_red {
+  background-color: #d81111; }
 
 .ct_section_brown {
   background-color: #292929;

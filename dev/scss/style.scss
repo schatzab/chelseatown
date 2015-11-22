@@ -1,10 +1,11 @@
 body { 
-	padding-top: 70px;
+
   }
 
 $black-brown: #292929;
 $light-brown: #4c4b4b;
 $white: #ffffff;
+$red: #d81111;
 
 
 .head_text {
@@ -15,6 +16,9 @@ $white: #ffffff;
 }
 .ct_section_white {
 	background-color: $white;
+}
+.ct_section_red {
+	background-color: $red;
 }
 .ct_section_brown {
 	background-color: $black-brown;

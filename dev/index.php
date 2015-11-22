@@ -10,7 +10,7 @@
 <link href='https://fonts.googleapis.com/css?family=Leckerli+One' rel='stylesheet' type='text/css'>
 <title>Chelsea Town - </title>
 </head>
-<body>
+<body onscroll="pageScroll()">
 <!-- header -->		
 <?php include("inc/header.inc.php"); ?></div> 
 <!-- about -->	
@@ -22,6 +22,12 @@
 <!-- contact -->	
 <?php include("inc/footer.inc.php"); ?></div> 
 
+<script>
+function pageScroll() {
+    document.getElementById("navShow").style.visibility = "visible";
+    document.getElementsByTagName("body")[0].style.paddingTop = "50px";
+}
+</script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
 </body>
