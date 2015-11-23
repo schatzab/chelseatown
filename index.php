@@ -9,6 +9,16 @@
 <title>Chelsea Town</title>
 </head>
 
+ <!--css-->
+<link rel="stylesheet" type="text/css" href="css/chelseatown.css">
+<link href='https://fonts.googleapis.com/css?family=Arimo:400,700' rel='stylesheet' type='text/css'> <!-- body -->
+<link href='https://fonts.googleapis.com/css?family=Cinzel:700' rel='stylesheet' type='text/css'> <!-- up arrow -->
+<link href='https://fonts.googleapis.com/css?family=Leckerli+One' rel='stylesheet' type='text/css'> <!-- quote -->
+<link href='https://fonts.googleapis.com/css?family=Kreon:700' rel='stylesheet' type='text/css'>
+<!-- header -->
+<link rel="stylesheet" type="text/css" href="css/normalize.css">
+<!--endcss-->
+
 <body>
 <center>
 
@@ -35,15 +45,6 @@
 
  <?php include("inc/footer.inc.php"); ?> </div> 
 
- <!--css-->
-<link rel="stylesheet" type="text/css" href="css/chelseatown.css">
-<link href='https://fonts.googleapis.com/css?family=Arimo:400,700' rel='stylesheet' type='text/css'> <!-- body -->
-<link href='https://fonts.googleapis.com/css?family=Cinzel:700' rel='stylesheet' type='text/css'> <!-- up arrow -->
-<link href='https://fonts.googleapis.com/css?family=Leckerli+One' rel='stylesheet' type='text/css'> <!-- quote -->
-<link href='https://fonts.googleapis.com/css?family=Kreon:700' rel='stylesheet' type='text/css'>
-<!-- header -->
-<link rel="stylesheet" type="text/css" href="css/normalize.css">
-<!--endcss-->
 
 <!--js-->
 <script src="https://code.jquery.com/jquery-1.10.2.js"></script>

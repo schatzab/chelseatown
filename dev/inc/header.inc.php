@@ -1,5 +1,5 @@
 <header class="container ct_section_red">
-  <nav class="navbar navbar-default navbar-fixed-top" id="navShow" style="visibility: hidden;">
+  <nav class="navbar navbar-default navbar-fixed-top ct_topNav" id="navShow">
 	  <div class="container">
       	<a class="navbar-brand" href="/">
         	<div class="head_text">Chelsea Town</div>

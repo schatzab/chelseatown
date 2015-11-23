@@ -14,4 +14,8 @@
   background-color: #292929;
   color: #4c4b4b; }
 
+/* Nav appear */
+.ct_topNav {
+  visibility: hidden; }
+
 /*# sourceMappingURL=style.css.map */

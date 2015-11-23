@@ -8,6 +8,7 @@
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <link href='https://fonts.googleapis.com/css?family=Leckerli+One' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="js/main.js"></script>
 <title>Chelsea Town - </title>
 </head>
 <body onscroll="pageScroll()">
@@ -22,12 +23,7 @@
 <!-- contact -->	
 <?php include("inc/footer.inc.php"); ?></div> 
 
-<script>
-function pageScroll() {
-    document.getElementById("navShow").style.visibility = "visible";
-    document.getElementsByTagName("body")[0].style.paddingTop = "50px";
-}
-</script>
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
 </body>
