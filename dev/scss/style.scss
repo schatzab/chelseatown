@@ -1,6 +1,4 @@
-body { 
-
-  }
+body { /* dynamic top padding */ }
 
 $black-brown: #292929;
 $light-brown: #4c4b4b;
@@ -27,5 +25,14 @@ $red: #d81111;
 
 /* Nav appear */
 .ct_topNav {
-	visibility: hidden;
+  visibility: hidden;
+}
+.ct_nav {
+
+}
+.ct_nav:hover { }
+
+/* Footer */
+.ct_footer {
+	margin: 0 auto;
 }

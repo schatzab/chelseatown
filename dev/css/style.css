@@ -1,3 +1,6 @@
+body {
+  /* dynamic top padding */ }
+
 .head_text {
   font-family: 'Leckerli One', cursive; }
 
@@ -17,5 +20,9 @@
 /* Nav appear */
 .ct_topNav {
   visibility: hidden; }
+
+/* Footer */
+.ct_footer {
+  margin: 0 auto; }
 
 /*# sourceMappingURL=style.css.map */
