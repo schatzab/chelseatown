@@ -1,4 +1,4 @@
-<section class="jumbotron ct_section_white">
+<section id="about" name="about" class="jumbotron ct_section_white">
   <div class="container">
 	<header class="page-header">
     	<h2><div class="head_text">Good day, I'm Chelsea</div></h2>      

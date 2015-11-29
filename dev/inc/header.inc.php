@@ -5,11 +5,12 @@
         	<div class="head_text">Chelsea Town</div>
      	  </a>
       	<ul class="nav nav-pills ct_nav">
-  			<li role="presentation" class="ct_nav"><a href="#">About</a></li>
-        <li role="presentation" class="ct_nav"><a href="#">Skills</a></li>        
-        <li role="presentation" class="ct_nav"><a href="#">Reference</a></li>
-        <li role="presentation" class="ct_nav"><a href="#">Contact</a></li>
-		</ul>
+              <li role="presentation" class="nav_jump"><a href="#work">Work</a></li>
+              <li role="presentation" class="nav_jump"><a href="#skills">Skills</a></li>
+              <li role="presentation" class="nav_jump"><a href="#ref">Reference</a></li>
+              <li role="presentation" class="nav_jump"><a href="#about">About</a></li>
+              <li role="presentation" class="nav_jump"><a href="#contact">Contact</a></li>            
+		    </ul>
 	  </div>
   </nav>  
 </header>

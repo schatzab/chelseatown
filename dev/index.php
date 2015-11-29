@@ -9,6 +9,7 @@
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <link href='https://fonts.googleapis.com/css?family=Leckerli+One' rel='stylesheet' type='text/css'>
 <script type="text/javascript" src="js/main.js"></script>
+<script type="text/javascript" src="js/jquery.js"></script>
 <title>Chelsea Town - </title>
 </head>
 <body onscroll="pageScroll()">
@@ -22,7 +23,6 @@
 <?php include("inc/contact.inc.php"); ?></div> 
 <!-- contact -->	
 <?php include("inc/footer.inc.php"); ?></div> 
-
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>

@@ -23,6 +23,51 @@ body {
 
 /* Footer */
 .ct_footer {
-  margin: 0 auto; }
+  margin: 0 auto;
+  padding: 3em; }
+
+/* Scroll Top Arrow */
+#scroll_top {
+  background: #0d0d0d;
+  background: rgba(13, 13, 13, 0.7);
+  position: fixed;
+  bottom: 3em;
+  right: 3em;
+  display: block;
+  -webkit-border-radius: 3em;
+  -moz-border-radius: 3em;
+  border-radius: 3em;
+  display: none;
+  width: 3em;
+  height: 3em;
+  -webkit-transition: all 0.4s ease;
+  -moz-transition: all 0.4s ease;
+  -ms-transition: all 0.4s ease;
+  -o-transition: all 0.4s ease;
+  transition: all 0.4s ease; }
+
+#scroll_top:hover {
+  background: rgba(0, 0, 0, 0.9); }
+
+#scroll_top b {
+  margin: 0;
+  font-size: 47px;
+  position: relative;
+  top: 0.2em;
+  left: 0em;
+  -webkit-transition: all 0.4s ease;
+  -moz-transition: all 0.4s ease;
+  -ms-transition: all 0.4s ease;
+  -o-transition: all 0.4s ease;
+  transition: all 0.4s ease; }
+
+#scroll_top:hover b {
+  color: #ffffff;
+  top: 0.1em; }
+
+.scroll_top_arrow {
+  font-family: 'Cinzel', sans-serif;
+  font-size: 300%;
+  color: #D4D4D4; }
 
 /*# sourceMappingURL=style.css.map */
