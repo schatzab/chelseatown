@@ -19,6 +19,8 @@
 <?php include("inc/about.inc.php"); ?></div> 
 <!-- skills -->	
 <?php include("inc/skills.inc.php"); ?></div> 
+<!-- references -->	
+<?php include("inc/ref.inc.php"); ?></div> 
 <!-- footer -->		
 <?php include("inc/contact.inc.php"); ?></div> 
 <!-- contact -->	
