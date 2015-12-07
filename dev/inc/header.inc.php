@@ -5,7 +5,7 @@
         	<div class="head_text">Chelsea Town</div>
      	  </a>
       	<ul class="nav nav-pills ct_nav">
-              <li role="presentation" class="nav_jump"><a href="#work">Work</a></li>
+              <li role="presentation" class="nav_jump"><a href="#exp">Experience</a></li>
               <li role="presentation" class="nav_jump"><a href="#skills">Skills</a></li>
               <li role="presentation" class="nav_jump"><a href="#ref">Reference</a></li>
               <li role="presentation" class="nav_jump"><a href="#about">About</a></li>
@@ -14,13 +14,12 @@
 	  </div>
   </nav>  
 </header>
-
 <section class="jumbotron ct_section_red">
   <div class="container">
-  <header class="page-header">
-      <h2>Chelsea Town</h2>      
+    <header class="page-header">
+      <h2>Chelsea Town</h2>    
+      <p class="go">Software Engineer &amp; Designer</p>
     </header>
-
   </div> 
 </section>
 

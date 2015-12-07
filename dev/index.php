@@ -15,6 +15,8 @@
 <body onscroll="pageScroll()">
 <!-- header -->		
 <?php include("inc/header.inc.php"); ?></div> 
+<!-- experience -->	
+<?php include("inc/exp.inc.php"); ?></div> 
 <!-- about -->	
 <?php include("inc/about.inc.php"); ?></div> 
 <!-- skills -->	
