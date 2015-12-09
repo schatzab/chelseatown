@@ -23,12 +23,12 @@
 <?php include("inc/skills.inc.php"); ?></div> 
 <!-- references -->	
 <?php include("inc/ref.inc.php"); ?></div> 
-<!-- footer -->		
+<!-- contact -->		
 <?php include("inc/contact.inc.php"); ?></div> 
-<!-- contact -->	
+<!-- footer -->	
 <?php include("inc/footer.inc.php"); ?></div> 
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
 <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
