@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html lang="en" ng-app>
 <head>
 <meta charset="UTF-8">
 <meta name="description" content="about ct" />
@@ -8,7 +7,6 @@
 <link rel="shortcut icon" href="/images/favicon.ico">
 <title>Chelsea Town</title>
 </head>
-
  <!--css-->
 <link rel="stylesheet" type="text/css" href="css/chelseatown.css">
 <link href='https://fonts.googleapis.com/css?family=Arimo:400,700' rel='stylesheet' type='text/css'> <!-- body -->
@@ -18,33 +16,21 @@
 <!-- header -->
 <link rel="stylesheet" type="text/css" href="css/normalize.css">
 <!--endcss-->
-
 <body>
 <center>
 
 <!-- header -->
 <?php include("inc/header.inc.php"); ?> </div> 
-
 <!-- work -->	
-
 <?php include("inc/work.inc.php"); ?> </div> 	
-		
 <!-- Skills -->		
-
- <?php include("inc/skills.inc.php"); ?> </div> 	
- 
+<?php include("inc/skills.inc.php"); ?> </div> 	
 <!-- ref -->		
-
 <?php include("inc/ref.inc.php"); ?> </div> 	
-		
 <!-- About -->		
-
- <?php include("inc/about.inc.php"); ?> </div> 	
-	
+<?php include("inc/about.inc.php"); ?> </div> 	
 <!-- footer -->		
-
- <?php include("inc/footer.inc.php"); ?> </div> 
-
+<?php include("inc/footer.inc.php"); ?> </div> 
 
 <!--js-->
 <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
@@ -52,6 +38,7 @@
 <script src="js/returntotop.js" type="text/javascript"></script>
 <script src="js/navscroll.js" type="text/javascript"></script>
 <script src="js/showjob.js" type="text/javascript"></script>
+<script src="js/showskills.js" type="text/javascript"></script>
 <!--endjs-->
 
 <script>

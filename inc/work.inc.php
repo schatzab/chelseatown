@@ -55,12 +55,16 @@
 		</div>
 	</div>
 
+
+
+
 		<!-- == Show Job 1 == -->
 
 		<div id="section1" class="section_content_container">
 	
 			<div class="section_content_container_inner">
 			<br><br>
+			<div class="xJobClose" onclick='closeJob("#section1")'>x</div>
 			<h2 style="font-size: 200%;"> Director of Technology, Smartwaiver</h2>
 				<ul>
 				<li> Developing and maintaining front-end HTML, CSS, jQuery and JavaScript for company website with occasional back-end modifications. </li>
@@ -84,6 +88,7 @@
 		<div id="section2" class="section_content_container">
 			<div class="section_content_container_inner">
 			<br><br>
+			<div class="xJobClose" onclick='closeJob("#section2")'>x</div>
 			<h2 style="font-size: 200%;"> Freelance Web Development & Design</h2>
 				<ul>
 				<li> Design compositions with revisions and logo creations.</li>
@@ -102,6 +107,7 @@
 		<div id="section3" class="section_content_container">
 			<div class="section_content_container_inner">
 			<br><br>
+			<div class="xJobClose" onclick='closeJob("#section3")'>x</div>
 			<h2 style="font-size: 200%;"> Graphic Designer & Web, The Nugget Newspaper</h2>
 				<ul>
 					<li> Create and modify graphic media for a wide variety of clients.</li> 
@@ -122,7 +128,8 @@
 
 		<div id="section4" class="section_content_container">
 			<div class="section_content_container_inner">
-
+			<br><br>
+			<div class="xJobClose" onclick='closeJob("#section4")'>x</div>
 			<h2 style="font-size: 200%;"> Web Developer & Designer, CallWave</h2> 
 				<ul>
 				<li> Work with a team to create directed web advertising and landing pages for product.</li>

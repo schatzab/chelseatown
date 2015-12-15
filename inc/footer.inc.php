@@ -1,5 +1,4 @@
 <!-- Footer -->
-
 <footer class="footer_main_container" id="contact" name="contact">
 	<div class="footer_main_container_inner">
 		<div class="footer_main_box">
@@ -7,9 +6,7 @@
 			<div class="footer_main_box_text">
 				Two of my favorite things: code and coffee.<br>
 				Let's put them together and discuss!
-
 				<br><br>
-
 				<script language=javascript>
 				<!--
 				var contact = "email"
@@ -18,14 +15,10 @@
 				document.write("<a href=" + "mail" + "to:" + email + "@" + emailHost + "\">" + email + "@" + emailHost + "</a>")
 				//-->
 				</script>
-
 				<br>
-
 				<a href="tel:+15413505121">541-350-5121</a>
-				
 			</div>
 		</div>
-
 		<div class="footer_main_box_right">
 			<div class="footer_main_box_header">Network</div>
 			<div class="footer_main_box_text">
@@ -39,11 +32,8 @@
 			</div>
 		</div>
 	</div>
-
 	<!-- Scroll Top -->
 	<a href="javascript:"id="scroll_top"><b class="scroll_top_arrow">^</b></a>
-
-
 	<!-- Bottom Footer -->
 	<div class="footer_main_container_inner">
 		<div class="footer_bottomline">Code & Design from scratch by Chelsea Town &copy; <?php echo date("Y"); ?></div>

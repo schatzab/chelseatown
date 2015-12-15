@@ -1,6 +1,4 @@
-// Click the nav bar to show different sections of page
-
-
+// Click to show job details
 var which_job_is_active = "";
 
 $(document).ready(function() {
@@ -8,14 +6,15 @@ $(document).ready(function() {
 });
 
 function display_job(name_of_the_job_id) {
-
-
-    if(name_of_the_job_id != "") {
-        $(which_job_is_active).slideUp(500,function() {
-            $(name_of_the_job_id).slideDown(500);
-        });
-    }
-    else $(name_of_the_job_id).show(); 
-
-    which_job_is_active = name_of_the_job_id;
+    if ($(name_of_the_job_id).is(':hidden')) {
+    	$(name_of_the_job_id).show(500);
+   		$('html, body').animate({ scrollTop: $(name_of_the_job_id).offset().top }, 500); 
+   	}
+   	else {
+   		$(name_of_the_job_id).hide(500);
+   	}
+}
+function closeJob(name_of_the_job_id) {
+	$(name_of_the_job_id).hide(500);
+   	$('html, body').animate({ scrollTop: $('#work').offset().top }, 500); 
 }
