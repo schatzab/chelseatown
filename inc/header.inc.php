@@ -1,12 +1,3 @@
-
-
-<script>
-$(document).ready(function(){
-	$(".head_img2").hide().css("visibility", "visible").fadeIn(3000);
-});
-</script>
-
-
 <header>
 <nav class="top_bar">
 	<div class="top_bar_inner">
@@ -17,7 +8,6 @@ $(document).ready(function(){
 		<a href="#contact" class="nav_jump">Contact</a>
 	</div>
 </nav>
-
 <div class="container_outter">
 	<div class="container_inner">
 

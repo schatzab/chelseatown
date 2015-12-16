@@ -1,10 +1,5 @@
 /* Chelsea Town 2015 */
-
-
-
-
 body {
-  
 	color: #292929;  
 	font-family: 'Arimo', sans-serif, verdana; 
 	font-size: 100%;
@@ -13,28 +8,16 @@ body {
 	padding: 0;
 	text-align: center;
 }
-
-
-
 a { color: #888888; text-decoration: none; font-weight: bold; cursor: pointer; }
 a:active { color: #888888; text-decoration: none; } 
 a:link {  color: #888888; text-decoration: none; }
 a:visited {  color: #888888; text-decoration: none; }
 a:hover {  color: #93c2d3; text-decoration: none; }
 
-
-
-
 h1 { font-size: 300%; font-weight: normal; margin: 0 0 1em 0; color: #93c2d3; line-height: 1; }
-
 h2 { font-size: 110%; font-weight: normal; margin: 0; color: #888888; }
-
-
-
 h3 { color: white; font-size: 90%; font-weight: normal; }
 .white { color: #ffffff; }
-
-
 
 .container_outer {
   	width: 100%;
@@ -55,9 +38,6 @@ h3 { color: white; font-size: 90%; font-weight: normal; }
 	background-repeat: no-repeat;
 	margin: 0 auto;
 }
-
-
-
 
 
 /* == top most bar == */
@@ -81,8 +61,6 @@ h3 { color: white; font-size: 90%; font-weight: normal; }
 .top_bar_inner a:hover { color: #93c2d3; }
 
 
-
-
 .header_left { float: left; text-align: left; border: width: 80%; }
 
 .header_right { float: left; margin-top: 2em; position: relative; }
@@ -95,10 +73,6 @@ h3 { color: white; font-size: 90%; font-weight: normal; }
 .head_img2 {
 	margin-left: 10em;
 }
-
-
-
-
 
 
 /* ==  WORK == */
@@ -428,9 +402,3 @@ a.footer_main_box:hover {  color: #888888; text-decoration: none; }
 	.footer_main_box_right { float: none; width: 100%; }
 	.footer_main_box_text { min-height: 4em; }
 }
-
-
-
-
-	
-	
