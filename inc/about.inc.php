@@ -8,10 +8,10 @@
 		<div class="about_box_right">
 			<h1>Good day, <br>I'm Chelsea</h1>
 			<div class="about_main_box_text">
-				Raised on the stunning island of O'ahu and graduated from UCSB, I now call Bend, Oregon home with my ohana of four. I
-				believe in learning as a life-long journey and hope to utilize it till my last breath.  Until that moment, my current goals 
-				are to work with a fast-paced, growing, future-focused company.  My skills are broad and I'm a quick learner with many interests. 
-				If you'd like specifics, <a href="#skills">I've provided them here</a>. I'm glad to <a href="#contact">chat at anytime</a>.
+				After being raised on the island of O'ahu, I left for the University and earned a degree in Graphic Design from UCSB. Bend, Oregon is now my home with my adventure-loving family of four. I believe in learning as a life-long journey and absorb as much as I can.  My goals are to work with a company which enjoys change and working towards progressive development.  
+
+				<br><br>
+				My skills are technology-based and I'm a quick learner with many interests. If you'd like specifics, I'm glad to chat more about them!
 			</div>
 		</div>
 </div>
