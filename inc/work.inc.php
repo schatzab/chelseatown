@@ -5,7 +5,7 @@
 
 	<div class="work_main_container_inner">
 		<div class="work_main_box">
-			<div class="work_main_box_header"><h3 style="color: #93c2d3;"><b>Frontend Engineer</b><br> 1995-<?php echo date("Y"); ?></h3></div>
+			<div class="work_main_box_header"><h3 style="color: #93c2d3;"><b>Software Engineer</b><br> 1995-<?php echo date("Y"); ?></h3></div>
 			<div class="work_main_box_text">
 				My education in coding started in 1995 when I tinkered and taught myself Web code. After earning a degree from UCSB in 2002, I've worked continuously in Internet development. I believe education must always continue and employ this philosophy to maintain my code, designs and follow current trends.<br><br>
 

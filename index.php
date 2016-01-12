@@ -10,8 +10,6 @@
  <!--css-->
 <link rel="stylesheet" type="text/css" href="css/chelseatown.css">
 <link href='https://fonts.googleapis.com/css?family=Arimo:400,700' rel='stylesheet' type='text/css'> <!-- body -->
-<link href='https://fonts.googleapis.com/css?family=Cinzel:700' rel='stylesheet' type='text/css'> <!-- up arrow -->
-<link href='https://fonts.googleapis.com/css?family=Leckerli+One' rel='stylesheet' type='text/css'> <!-- quote -->
 <link href='https://fonts.googleapis.com/css?family=Kreon:700' rel='stylesheet' type='text/css'>
 <!-- header -->
 <link rel="stylesheet" type="text/css" href="css/normalize.css">
@@ -40,6 +38,9 @@
 <script src="js/showjob.js" type="text/javascript"></script>
 <script src="js/showskills.js" type="text/javascript"></script>
 <!--endjs-->
+
+<link href='https://fonts.googleapis.com/css?family=Cinzel:700' rel='stylesheet' type='text/css'> <!-- up arrow -->
+<link href='https://fonts.googleapis.com/css?family=Leckerli+One' rel='stylesheet' type='text/css'> <!-- quote -->
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
