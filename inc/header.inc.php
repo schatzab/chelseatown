@@ -14,7 +14,7 @@
 		<div class="container_inner_header">
 			<div class="header_left">
 				<div class="head_text">Chelsea Town</div>
-				<h2>Software Engineer & UX Developer</h2>
+				<h2>Software Engineer</h2>
 			</div>
 		
 
