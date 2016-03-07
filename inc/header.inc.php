@@ -8,18 +8,14 @@
 		<a href="#contact" class="nav_jump">Contact</a>
 	</div>
 </nav>
-<div class="container_outter">
+<div class="container_outter" style="background-image: url('images/index_main.jpg');">
 	<div class="container_inner">
-
 		<div class="container_inner_header">
 			<div class="header_left">
 				<div class="head_text">Chelsea Town</div>
 				<h2>Software Engineer</h2>
 			</div>
-		
-
 		</div>
-	
 	</div>	
 </div>
 </header>

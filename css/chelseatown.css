@@ -22,6 +22,8 @@ h3 { color: white; font-size: 90%; font-weight: normal; }
 .container_outer {
   	width: 100%;
  	padding: 2em 0 0 0;
+   	height: 100%;
+   	border: 1px solid red;
 }
 .container_inner {
   	width: 80%;
@@ -29,13 +31,14 @@ h3 { color: white; font-size: 90%; font-weight: normal; }
 }
 .container_inner_header {
   	width:100%;
-  	padding: 4em;
-  	overflow: hidden;
+  	padding: 5em;
+  	height: 8em;
+
 }
 .container_inner_body {
 	position: relative;	
 	padding: 4em 0 0 0;
-	background-repeat: no-repeat;
+
 	margin: 0 auto;
 }
 
@@ -61,7 +64,8 @@ h3 { color: white; font-size: 90%; font-weight: normal; }
 .top_bar_inner a:hover { color: #93c2d3; }
 
 
-.header_left { float: left; text-align: left; border: width: 80%; }
+.header_left { float: left; text-align: left; width: 80%; }
+.header_left h2 { color: #ffffff;}
 
 .header_right { float: left; margin-top: 2em; position: relative; }
 
@@ -69,6 +73,7 @@ h3 { color: white; font-size: 90%; font-weight: normal; }
 	font-family: 'Leckerli One', cursive;
 	font-size: 250%;
 	padding-bottom: 0.5em;
+	color: #ffffff;
 }
 .head_img2 {
 	margin-left: 10em;
