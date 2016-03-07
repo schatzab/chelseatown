@@ -38,7 +38,6 @@ h3 { color: white; font-size: 90%; font-weight: normal; }
 .container_inner_body {
 	position: relative;	
 	padding: 4em 0 0 0;
-
 	margin: 0 auto;
 }
 
@@ -71,10 +70,11 @@ h3 { color: white; font-size: 90%; font-weight: normal; }
 
 .head_text {
 	font-family: 'Leckerli One', cursive;
-	font-size: 250%;
+	font-size: 280%;
 	padding-bottom: 0.5em;
 	color: #ffffff;
 }
+.head_text h2 { font-size: 150%; }
 .head_img2 {
 	margin-left: 10em;
 }
@@ -84,24 +84,25 @@ h3 { color: white; font-size: 90%; font-weight: normal; }
 .work_main_container { background-color: #93c2d3; border-bottom: 2px solid #EBEBEB; border-top: 2px solid #EBEBEB;  width: 100%; margin: 0 0 0 0; overflow: hidden; position: relative; }
 .work_main_container_inner { overflow: hidden; width: 1000px; margin: 0em auto; }
 .work_main_box { 
-	max-width: 14em; 
+	max-width: 100%; 
 	float: left; 
 	margin: 1em 3em 1em 0em;
 	padding: 2em 2em;
 }
 .work_main_box_header {
-	width: 13.7em;
+	width: 100%;
 	background-color: #ffffff;
-	height: 4.4em;
-	padding: 0.5em 0;
-	margin-bottom: 1.5em;
+	padding: 3em 3em 4em 3em;
 	letter-spacing: 0.1em;
 }
-.work_main_box_text {
+.work_main_box_header h2 { color: #93c2d3; text-align: left; }
+
+.work_main_box_text { 
 	color: #ffffff;
 	text-align: left;
-	max-width: 13.5em;
 	min-height: 12em;
+	padding: 2em 6em 2em 0;
+	float: left;
 }
 .work_main_box a { color: #ffffff; text-decoration: underline; }
 .work_main_box a:active { color: #ffffff; text-decoration: underline; } 
@@ -114,7 +115,7 @@ h3 { color: white; font-size: 90%; font-weight: normal; }
 	width: 100%; 
 	margin: 0 auto;
 	background-color: #e6f3ff;
-	margin: 0 0 4em 0;
+	overflow: hidden;
 	border-top: 1px solid #d4d4d4;
 	border-bottom: 1px solid #d4d4d4;
 	padding-top: 2em;
@@ -142,6 +143,7 @@ h3 { color: white; font-size: 90%; font-weight: normal; }
 	-webkit-border-radius: 50%;
 	border-radius: 50%;
 	padding: 1em 1.5em;
+	margin-right: 2em;
 	font-weight: bold;
 	cursor: pointer;
 	color: #ffffff;

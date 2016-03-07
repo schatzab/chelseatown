@@ -1,55 +1,39 @@
 
 <div class="work_main_container" id="work" name="work">
 	<br><br><br>
-	<h1 class="white">What I've Been Doing</h1>
+	<h1 class="white"><img src="images/gear_white.png" valign="-10px" style="padding-right: 0.5em;">My Computer Development Experience</h1>
 
 	<div class="work_main_container_inner">
 		<div class="work_main_box">
-			<div class="work_main_box_header"><h3 style="color: #93c2d3;"><b>Software Engineer</b><br> 1995-<?php echo date("Y"); ?></h3></div>
-			<div class="work_main_box_text">
-				My education in coding started in 1995 when I tinkered and taught myself Web code. After earning a degree from UCSB in 2002, I've worked continuously in Internet development. I believe education must always continue and employ this philosophy to maintain my code, designs and follow current trends.<br><br>
+			<div class="work_main_box_header">
+				<h2>
+				Most of the time when I’m asked about what I do, I get a blank-faced look and then a quick change of subject.  Or perhaps the eyes glaze over as I try to explain a novice version of how web coding works. It’s a joy to meet others who understand this language which seems to captivate you and me.
+				<br><br>
 
-				Related Experience:<br><br>
+				The details are listed below, but I wanted to emphasize here that I love coding, can do it day after day, all day long, and still find it fascinating.  Every day there is something new to learn and some neat new trick.  There are many packages, gems, frameworks, etc to help out (and some I couldn’t do without!), but what’s enticing is to get to the bottom of what’s really happening and figure out how someone did what they did on that fancy new whatchamacallit.
+				<br><br>
+
+				Over the last 20 years I’ve been writing code, creating layouts, graphics and testing/troubleshooting.  It’s what I want to do, where I want to work and if you’d like to have my enthusiasm and experience on-board, then <a href="#contact" style="color: #93c2d3;">send a note my way</a>!
+				</h2>
+			</div>
+			<div class="work_main_box_text">
+				Experience:<br><br>
 					<div style="color: #ffffff;">
-					&bull; <a onclick='display_job("#section1")'><span id="section1_cjt_select">Smartwaiver, 2010-2015</span></a><br>
-					&bull; <a onclick='display_job("#section2")'><span id="section2_cjt_select">Freelance, 2002-<?php echo date("Y"); ?></span></a><br>
-					&bull; <a onclick='display_job("#section3")'><span id="section3_cjt_select">Nugget News, 2005-2010</span></a><br>
-					&bull; <a onclick='display_job("#section4")'><span id="section4_cjt_select">CallWave, 2002-2005</span></a>
+					<a onclick='display_job("#section5")'><span id="section1_cjt_select">Further Education</span></a><br>
+					<a onclick='display_job("#section1")'><span id="section1_cjt_select">Smartwaiver, 2010-2015</span></a><br>
+					<a onclick='display_job("#section2")'><span id="section2_cjt_select">Freelance, 2002-<?php echo date("Y"); ?></span></a><br>
+					<a onclick='display_job("#section3")'><span id="section3_cjt_select">Nugget News, 2005-2010</span></a><br>
+					<a onclick='display_job("#section4")'><span id="section4_cjt_select">CallWave, 2002-2005</span></a>
+					</div>
+			</div>
+			<div class="work_main_box_text">
+				Portfolio Projects:<br><br>
+					<div style="color: #ffffff;">
+					<a href="http://www.remoteloc.com" target="_blank"><span id="section1_cjt_select">Remote Loc</span></a><br>
+					<a href="https://www.smartwaiver.com/" target="_blank"><span id="section2_cjt_select">Smartwaiver</span></a><br>
 					</div>
 			</div>
 		</div>
-
-		<div class="work_main_box">
-			<div class="work_main_box_header"><h3 style="color: #93c2d3;"><b>Design & UI/UX</b><br> 1995-<?php echo date("Y"); ?></h3></div>
-			<div class="work_main_box_text">
-				My style of art has an inclination towards clean design with open space being an active player. At UCSB I received my degree in Graphic Design.  Since then I've worked in creating graphics and layout, as well as developing a solid user experience on websites and applications.<br><br>
-
-				Related Experience:<br><br>
-					<div style="color: #ffffff;">
-					&bull; <span id="section1_cjt_select">Smartwaiver, 2010-2015</span><br>
-					&bull; <span id="section2_cjt_select">Freelance, 2002-<?php echo date("Y"); ?></span><br>
-					&bull; <span id="section3_cjt_select">Nugget News, 2005-2010</span><br>
-					&bull; <span id="section4_cjt_select">CallWave, 2002-2005</span>
-					</div>
-			</div>
-		</div>
-
-		<div class="work_main_box">
-			<div class="work_main_box_header"><h3 style="color: #93c2d3;"><b>Software Testing</b><br> 2010-<?php echo date("Y"); ?></h3></div>
-			<div class="work_main_box_text">
-				My primary experience in software and product testing was as the sole software tester at a startup.  It was my job to see a product from its initial phase, through version iterations, and finally to pre- and post-launch testing/maintenance. My inclination for details makes me a strong tester.<br><br>
-
-				Related Experience:<br><br>
-					<div style="color: #ffffff;">
-					&bull; <span id="section1_cjt_select">Smartwaiver, 2010-2015<br>
-					&bull; <span id="section2_cjt_select">Freelance, 2002-<?php echo date("Y"); ?><br>
-					</div>
-			</div>	
-		</div>
-	</div>
-
-
-
 
 		<!-- == Show Job 1 == -->
 
@@ -140,5 +124,30 @@
 		</div>
 
 		<!-- == END Job 4 == -->
+
+		<!-- == Show Job 5 == -->
+
+		<div id="section5" class="section_content_container">
+			<div class="section_content_container_inner">
+			<br><br>
+			<div class="xJobClose" onclick='closeJob("#section5")'>x</div>
+			<h2 style="font-size: 200%;"> Further Education</h2> 
+				<ul>
+				<li> Lynda.com</li>
+				<li> Stack Overflow</li>
+				<li> Sitepoint.com</li>
+				<li> W3Schools Online Web Tutorials </li>
+				<li> A Variety of E-books</li>
+				<li> RubyOnRails.org</li>
+				<li> Adult Education at Central Oregon City College</li>
+				<li> CSS-Tricks.com
+				<li> Google News - Technology</li>
+				<li> TechCrunch.com</li>
+				<li> Mashable</li>
+				</ul>
+			</div>
+		</div>
+
+		<!-- == END Job 5 == -->
 	</div>
 </div>
