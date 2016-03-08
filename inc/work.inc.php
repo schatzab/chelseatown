@@ -7,7 +7,7 @@
 		<div class="work_main_box">
 			<div class="work_main_box_header">
 				<h2>
-				Most of the time when I’m asked about what I do, I get a blank-faced look and then a quick change of subject.  Or perhaps the eyes glaze over as I try to explain a novice version of how web coding works. It’s a joy to meet others who understand this language which seems to captivate you and me.
+				Most of the time when I’m asked about what I do, I get a blank-faced look and then a quick change of subject.  Or perhaps the eyes glaze over as I try to explain a novice version of how web coding works. It’s a joy to meet others who understand this language. 
 				<br><br>
 
 				The details are listed below, but I wanted to emphasize here that I love coding, can do it day after day, all day long, and still find it fascinating.  Every day there is something new to learn and some neat new trick.  There are many packages, gems, frameworks, etc to help out (and some I couldn’t do without!), but what’s enticing is to get to the bottom of what’s really happening and figure out how someone did what they did on that fancy new whatchamacallit.

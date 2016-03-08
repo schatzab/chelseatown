@@ -16,19 +16,19 @@
 <!--endcss-->
 <body>
 <center>
-
+	
 <!-- header -->
-<?php include("inc/header.inc.php"); ?> </div> 
+<?php include("inc/header.inc.php"); ?>
 <!-- work -->	
-<?php include("inc/work.inc.php"); ?> </div> 	
+<?php include("inc/work.inc.php"); ?>	
 <!-- Skills -->		
-<?php include("inc/skills.inc.php"); ?> </div> 	
+<?php include("inc/skills.inc.php"); ?>	
 <!-- ref -->		
-<?php include("inc/ref.inc.php"); ?> </div> 	
+<?php include("inc/ref.inc.php"); ?>	
 <!-- About -->		
-<?php include("inc/about.inc.php"); ?> </div> 	
+<?php include("inc/about.inc.php"); ?>	
 <!-- footer -->		
-<?php include("inc/footer.inc.php"); ?> </div> 
+<?php include("inc/footer.inc.php"); ?>
 
 <!--js-->
 <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
