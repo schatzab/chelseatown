@@ -14,11 +14,51 @@
 <!-- header -->
 <link rel="stylesheet" type="text/css" href="css/normalize.css">
 <!--endcss-->
+
+
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script src="https://www.google.com/jsapi" type="text/javascript"></script>
+    <script language="Javascript" type="text/javascript">
+   //<!
+    google.load('search', '1'); /* Loads the Google Search API*/
+  	google.load("jquery", "1.4.2");
+  	google.load("jqueryui", "1.7.2");
+
+    function OnLoad() {
+      // Create a search control
+      var searchControl = new google.search.SearchControl();
+
+      // Add in a full set of searchers
+      var localSearch = new google.search.LocalSearch();
+      searchControl.addSearcher(localSearch);
+/*      searchControl.addSearcher(new google.search.WebSearch());*/
+
+      // Set the Local Search center point
+      localSearch.setCenterPoint("Bend, OR");
+
+      // tell the searcher to draw itself and tell it where to attach
+      searchControl.draw(document.getElementById("searchcontrol"));
+
+      // execute an inital search
+      searchControl.execute("Remote Locations");
+    }
+    google.setOnLoadCallback(OnLoad);
+
+    //]]>
+    </script>
+
+
+
 <body>
 <center>
 	
 <!-- header -->
 <?php include("inc/header.inc.php"); ?>
+
+
+<!-- <div id="searchcontrol">Loading</div> -->
+
+
 <!-- work -->	
 <?php include("inc/work.inc.php"); ?>	
 <!-- Skills -->		

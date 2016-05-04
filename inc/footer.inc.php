@@ -20,7 +20,7 @@
 			</div>
 		</div>
 		<div class="footer_main_box_right">
-			<div class="footer_main_box_header">Network</div>
+			<div class="footer_main_box_header">Profile Links</div>
 			<div class="footer_main_box_text">
 				<a href="https://www.linkedin.com/pub/chelsea-town/102/652/114" target="_blank">
 					LinkedIn &nbsp; <img src="images/icon_linkedin.png" style="width:30px; padding: 0 0 0 1.5em;" valign="-0.7em">
@@ -28,6 +28,10 @@
 				<br><br>
 				<a href="https://github.com/schatzab" target="_blank">
 					GitHub &nbsp; <img src="images/icon_github.png" style="width:30px; padding: 0 0 0 2.3em;" valign="-0.7em">
+				</a>
+				<br><br>
+				<a href="http://www.remoteloc.com" target="_blank">
+					RemoteLoc
 				</a>
 			</div>
 		</div>
