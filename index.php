@@ -60,7 +60,7 @@
 
 
 <!-- work -->	
-<?php include("inc/work.inc.php"); ?>	
+<?php include("inc/work2.inc.php"); ?>	
 <!-- Skills -->		
 <?php include("inc/skills.inc.php"); ?>	
 <!-- ref -->		
@@ -77,10 +77,11 @@
 <script src="js/navscroll.js" type="text/javascript"></script>
 <script src="js/showjob.js" type="text/javascript"></script>
 <script src="js/showskills.js" type="text/javascript"></script>
-<!--endjs-->
 
-<link href='https://fonts.googleapis.com/css?family=Cinzel:700' rel='stylesheet' type='text/css'> <!-- up arrow -->
-<link href='https://fonts.googleapis.com/css?family=Leckerli+One' rel='stylesheet' type='text/css'> <!-- quote -->
+<!-- up arrow -->
+<link href='https://fonts.googleapis.com/css?family=Cinzel:700' rel='stylesheet' type='text/css'>
+<!-- quote --> 
+<link href='https://fonts.googleapis.com/css?family=Leckerli+One' rel='stylesheet' type='text/css'>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
