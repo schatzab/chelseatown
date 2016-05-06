@@ -9,7 +9,6 @@ $white: #ffffff;
 $brightBlue: #08b4e1;
 
 
-
 body {
 	color: $darkGrey;  
 	font-family: 'Arimo', sans-serif, verdana; 
@@ -44,7 +43,6 @@ h3 { color: white; font-size: 90%; font-weight: normal; }
   	width:100%;
   	padding: 8em;
   	height: 8em;
-
 }
 .container_inner_body {
 	position: relative;	
@@ -276,16 +274,16 @@ h3 { color: white; font-size: 90%; font-weight: normal; }
 /* ==  REF == */
 
 .ref_main_container { background-color: $primaryBlue; padding: 4em 0; border-bottom: 2px solid $lightGrey; border-top: 2px solid $lightGrey;  width: 100%; margin: 6em 0; overflow: hidden; position: relative; }
-.ref_main_container_inner { width: 1000px; margin: 2em auto; overflow: hidden; background-color: $white; padding: 3em; border-radius: 7px; }
+.ref_main_container_inner { width: 80%; margin: 2em auto; overflow: hidden; background-color: $white; padding: 3em; border-radius: 7px; }
 .ref_main_box { 
-	max-width: 1000px; 
+	max-width: 80%; 
 	margin: 1em 3em 1em 0em;
 	font-size: 90%;
 	float: left;
 }
 .ref_main_box_text {
 	text-align: left;
-	width: 90%;
+	width: 80%;
 }
 .ref_quote_l {
 	font-size: 500%;
@@ -419,7 +417,13 @@ a.footer_main_box:hover {  color: $medGrey; text-decoration: none; }
 
 
 /* == RWD == */
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
+	.work_main_box_l { 	width: 38%; margin: 7em 1em 7em 0em; }
+	.work_main_box_r { 	width: 60%; margin: 7em 0em 7em 0em; }
+	.work_main_box_l_whitebg { 	width: 60%; margin: 7em 1em 7em 0em;  }
+	.work_main_box_r_whitebg { 	width: 38%; margin: 7em 0em 7em 0em;  }
+}
+@media (max-width: 950px) {
 	.work_main_box_l { width: 90%; margin: 2em 2em; }
 	.work_main_box_r { width: 90%; margin: 2em 2em;  }
 	.work_main_box_r_whitebg { width: 90%; margin: 2em 2em;  }

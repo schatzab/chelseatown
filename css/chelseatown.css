@@ -359,7 +359,7 @@ h3 {
   position: relative; }
 
 .ref_main_container_inner {
-  width: 1000px;
+  width: 80%;
   margin: 2em auto;
   overflow: hidden;
   background-color: #ffffff;
@@ -367,14 +367,14 @@ h3 {
   border-radius: 7px; }
 
 .ref_main_box {
-  max-width: 1000px;
+  max-width: 80%;
   margin: 1em 3em 1em 0em;
   font-size: 90%;
   float: left; }
 
 .ref_main_box_text {
   text-align: left;
-  width: 90%; }
+  width: 80%; }
 
 .ref_quote_l {
   font-size: 500%;
@@ -549,7 +549,23 @@ a.footer_main_box:hover {
   color: #D4D4D4; }
 
 /* == RWD == */
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
+  .work_main_box_l, .work_main_box_r, .work_main_box_r_whitebg {
+    width: 38%;
+    margin: 7em 1em 7em 0em; }
+
+  .work_main_box_r {
+    width: 60%;
+    margin: 7em 0em 7em 0em; }
+
+  .work_main_box_l_whitebg {
+    width: 60%;
+    margin: 7em 1em 7em 0em; }
+
+  .work_main_box_r_whitebg {
+    width: 38%;
+    margin: 7em 0em 7em 0em; } }
+@media (max-width: 950px) {
   .work_main_box_l, .work_main_box_r, .work_main_box_r_whitebg {
     width: 90%;
     margin: 2em 2em; }
