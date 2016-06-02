@@ -1,5 +1,6 @@
 /* Chelsea Town */
 
+
 /* Colors */
 $darkGrey: #292929;
 $medGrey: #888888;
@@ -313,16 +314,16 @@ h3 { color: white; font-size: 90%; font-weight: normal; }
 .about_main_container { background-color: $white; width: 100%; margin: 5em 0 0 0; padding-top: 3em; overflow: hidden; }
 .about_box_left { 
 	float: left; 
-	margin: 0 0 -7px 0;
+	margin: 0 0 -8px 0;
 	padding: 0 2em 0 0;
 	max-width: 50%;
 }
 .about_img { max-width: 100%; }
 .about_box_right { 
 	float: left; 
-	margin: 0 3em 0 20em;
+	margin: 0 3em 0 0em;
 	padding: 0 0 0 0;
-	width: 25%;
+	width: 35%;
 }
 .about_main_box_header {
 	padding: 0;

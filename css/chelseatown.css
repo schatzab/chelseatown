@@ -419,7 +419,7 @@ h3 {
 
 .about_box_left {
   float: left;
-  margin: 0 0 -7px 0;
+  margin: 0 0 -8px 0;
   padding: 0 2em 0 0;
   max-width: 50%; }
 
@@ -428,9 +428,9 @@ h3 {
 
 .about_box_right {
   float: left;
-  margin: 0 3em 0 20em;
+  margin: 0 3em 0 0em;
   padding: 0 0 0 0;
-  width: 25%; }
+  width: 35%; }
 
 .about_main_box_header {
   padding: 0;
