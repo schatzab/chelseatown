@@ -31,7 +31,7 @@
 					<br><br>
 					Since 1996 I've been teaching myself how to write code for the web, learn new technologies, as well as create my own designs and develop with UI/UX in mind.  In previous jobs I’ve created the color scheme, icons, informational graphics, landing pages, support pages, and worked with Marketing for a strong UI/UX interface, including A/B testing.
 					<br><br>
-					<a href="">Chelsea's Portfolio</a>
+					<a href="../portfolio.php">Chelsea's Portfolio</a>
 			</div>
 		</div>
 

@@ -5,7 +5,7 @@
 <meta name="description" content="about ct" />
 <meta name="viewport" content="width=device-width, initial-scale=1"><!-- media queries -->
 <link rel="shortcut icon" href="/images/favicon.ico">
-<title>Chelsea Town</title>
+<title>Chelsea Town - Portfolio</title>
 </head>
  <!--css-->
 <link rel="stylesheet" type="text/css" href="css/chelseatown.css">
@@ -14,7 +14,6 @@
 <!-- header -->
 <link rel="stylesheet" type="text/css" href="css/normalize.css">
 <!--endcss-->
-
 
 <script type="text/javascript" src="https://www.google.com/jsapi"></script>
 <script src="https://www.google.com/jsapi" type="text/javascript"></script>
@@ -47,36 +46,71 @@
     //]]>
     </script>
 
-
-
 <body>
 <center>
-	
-<!-- header -->
-<?php include("inc/header.inc.php"); ?>
 
+<header>
+<!-- nav -->
+<nav class="top_bar">
+  <div style="float: left;">
+    <div class="head_text_sp"><a href="/" style="color: #93c2d3;">Chelsea Town</a></div>
+  </div>
 
-<!-- <div id="searchcontrol">Loading</div> -->
+  <div class="top_bar_inner">
+    <a href="#work" class="nav_jump">Work</a>
+    <a href="#skills" class="nav_jump">Skills</a>
+    <a href="#ref" class="nav_jump">Reference</a>
+    <a href="#about" class="nav_jump">About</a>
+    <a href="#contact" class="nav_jump">Contact</a>
+  </div>
+</nav>
+</header>
 
+<!-- Main Content -->
+<div class="container_outer_sp">
+  <div class="container_inner">
+    <div class="port_box">
+      <h1><a href="http://remoteloc.com/">Remote Loc</a></h1>
+      A website created to help remote workers find work locations in their city
+    </div>
 
-<!-- work -->	
-<?php include("inc/work.inc.php"); ?>	
-<!-- Skills -->		
-<?php include("inc/skills.inc.php"); ?>	
-<!-- ref -->		
-<?php include("inc/ref.inc.php"); ?>	
-<!-- About -->		
-<?php include("inc/about.inc.php"); ?>	
+    <div class="port_box">
+      <h1><a href="https://www.smartwaiver.com/">Smartwaiver</a></h1>
+      Five years of UI/UX, code development and design work
+    </div>
+
+    <div class="port_box">
+      <h1><a href="http://www.drivefoil.com/">Drive Foil</a></h1>
+      Logo creation for carbon fiber website
+    </div>
+
+    <div class="port_box">
+      <h1>Paper Dolls</h1>
+      Logo creation for Bend, Oregon bookclub
+    </div>
+
+    <div class="port_box">
+      <h1><a href="http://www.warriorwoodfins.com/">Warrior Wood Fins</a></h1>
+      A website to created and designed to sell handmade wooden surfboard fins
+    </div>
+
+    <div class="port_box">
+      <h1><a href="http://www.davetownfins.com/">Dave Town Fins</a></h1>
+      Created a website for fiberglass surfboard fins
+    </div>
+  </div>
+</div>
+
 <!-- footer -->		
 <?php include("inc/footer.inc.php"); ?>
 
 <!--js-->
 <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="js/returntotop.js" type="text/javascript"></script>
-<script src="js/navscroll.js" type="text/javascript"></script>
-<script src="js/showjob.js" type="text/javascript"></script>
-<script src="js/showskills.js" type="text/javascript"></script>
+<script src="../js/returntotop.js" type="text/javascript"></script>
+<script src="../js/navscroll.js" type="text/javascript"></script>
+<script src="../js/showjob.js" type="text/javascript"></script>
+<script src="../js/showskills.js" type="text/javascript"></script>
 
 <!-- up arrow -->
 <link href='https://fonts.googleapis.com/css?family=Cinzel:700' rel='stylesheet' type='text/css'>
@@ -91,5 +125,4 @@
 
   ga('create', 'UA-67778220-1', 'auto');
   ga('send', 'pageview');
-
 </script>

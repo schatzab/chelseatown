@@ -58,6 +58,14 @@ h3 {
   height: 100%;
   border: 0px solid red; }
 
+.container_outer_sp {
+  width: 100%;
+  padding: 7em 0 4em 0;
+  height: 100%;
+  background: #93c2d3;
+  color: #ffffff;
+  text-align: left; }
+
 .container_inner {
   width: 80%;
   margin: 0 auto; }
@@ -120,11 +128,31 @@ h3 {
   padding-bottom: 0.5em;
   color: #ffffff; }
 
+.head_text_sp {
+  font-family: 'Leckerli One', cursive;
+  font-size: 180%;
+  padding: 0.5em 0 0.5em 1em; }
+
 .head_text h2 {
   font-size: 150%; }
 
 .head_img2 {
   margin-left: 10em; }
+
+/* ==  PORTFOLIO == */
+.port_box {
+  border: 0px solid red; }
+
+.port_box a {
+  color: white;
+  font-weight: normal; }
+
+.port_box a:hover {
+  text-decoration: none;
+  color: #08b4e1; }
+
+.port_box h1 {
+  color: #ffffff; }
 
 /* ==  WORK == */
 .work_main_container, .work_main_container_whitebg {
