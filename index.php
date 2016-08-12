@@ -60,7 +60,7 @@
 
 
 <!-- work -->	
-<?php include("inc/work2.inc.php"); ?>	
+<?php include("inc/work.inc.php"); ?>	
 <!-- Skills -->		
 <?php include("inc/skills.inc.php"); ?>	
 <!-- ref -->		
