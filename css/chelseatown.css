@@ -131,7 +131,8 @@ h3 {
 .head_text_sp {
   font-family: 'Leckerli One', cursive;
   font-size: 180%;
-  padding: 0.5em 0 0.5em 1em; }
+  padding: 0.5em 0 0.5em 1em;
+  color: #ffffff; }
 
 .head_text h2 {
   font-size: 150%; }
@@ -144,8 +145,8 @@ h3 {
   border: 0px solid red; }
 
 .port_box a {
-  color: white;
-  font-weight: normal; }
+  color: #888888;
+  font-weight: bold; }
 
 .port_box a:hover {
   text-decoration: none;
@@ -153,6 +154,20 @@ h3 {
 
 .port_box h1 {
   color: #ffffff; }
+
+.port_box_img_container {
+  display: inline-block;
+  margin: 0 auto;
+  position: relative; }
+
+.port_box_img_container_each {
+  border: 0.5em solid #ffffff;
+  margin: 2em;
+  width: 12em;
+  height: 12em;
+  -moz-border-radius: 100px;
+  -webkit-border-radius: 100px;
+  border-radius: 100px; }
 
 /* ==  WORK == */
 .work_main_container, .work_main_container_whitebg {

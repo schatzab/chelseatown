@@ -57,11 +57,11 @@
   </div>
 
   <div class="top_bar_inner">
-    <a href="#work" class="nav_jump">Work</a>
-    <a href="#skills" class="nav_jump">Skills</a>
-    <a href="#ref" class="nav_jump">Reference</a>
-    <a href="#about" class="nav_jump">About</a>
-    <a href="#contact" class="nav_jump">Contact</a>
+    <a href="/#work" class="nav_jump">Work</a>
+    <a href="/#skills" class="nav_jump">Skills</a>
+    <a href="/#ref" class="nav_jump">Reference</a>
+    <a href="/#about" class="nav_jump">About</a>
+    <a href="/#contact" class="nav_jump">Contact</a>
   </div>
 </nav>
 </header>
@@ -70,32 +70,48 @@
 <div class="container_outer_sp">
   <div class="container_inner">
     <div class="port_box">
-      <h1><a href="http://remoteloc.com/">Remote Loc</a></h1>
-      A website created to help remote workers find work locations in their city
+      <h1>Portfolio</h1>
+      <h2><a href="http://remoteloc.com/">RemoteLoc</a></h2>
+      A website created to help workers find locations in their city to work remotely
+
+      <!-- Images -->
+      <div class="port_box_img_container">
+        <img src="images/port_remoteloc_1_sm.jpg" alt="Remote Loc" class="port_box_img_container_each">
+        <img src="images/port_remoteloc_2_sm.jpg" alt="Remote Loc" class="port_box_img_container_each">
+        <img src="images/port_remoteloc_3_sm.jpg" alt="Remote Loc" class="port_box_img_container_each">
+      </div>
     </div>
 
+
     <div class="port_box">
-      <h1><a href="https://www.smartwaiver.com/">Smartwaiver</a></h1>
+      <h2><a href="https://www.smartwaiver.com/">Smartwaiver</a></h2>
       Five years of UI/UX, code development and design work
+      
+      <!-- Images -->
+      <div class="port_box_img_container">
+        <img src="images/port_remoteloc_1_sm.jpg" alt="Remote Loc" class="port_box_img_container_each">
+        <img src="images/port_remoteloc_2_sm.jpg" alt="Remote Loc" class="port_box_img_container_each">
+        <img src="images/port_remoteloc_3_sm.jpg" alt="Remote Loc" class="port_box_img_container_each">
+      </div>
     </div>
 
     <div class="port_box">
-      <h1><a href="http://www.drivefoil.com/">Drive Foil</a></h1>
+      <h2><a href="http://www.drivefoil.com/">Drive Foil</a></h2>
       Logo creation for carbon fiber website
     </div>
 
     <div class="port_box">
-      <h1>Paper Dolls</h1>
+      <h2>Paper Dolls</h2>
       Logo creation for Bend, Oregon bookclub
     </div>
 
     <div class="port_box">
-      <h1><a href="http://www.warriorwoodfins.com/">Warrior Wood Fins</a></h1>
+      <h2><a href="http://www.warriorwoodfins.com/">Warrior Wood Fins</a></h2>
       A website to created and designed to sell handmade wooden surfboard fins
     </div>
 
     <div class="port_box">
-      <h1><a href="http://www.davetownfins.com/">Dave Town Fins</a></h1>
+      <h2><a href="http://www.davetownfins.com/">Dave Town Fins</a></h2>
       Created a website for fiberglass surfboard fins
     </div>
   </div>
