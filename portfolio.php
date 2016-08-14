@@ -70,10 +70,8 @@
 <div class="container_outer_sp">
   <div class="container_inner">
     <div class="port_box">
-      <h1>Portfolio</h1>
-      <h2><a href="http://remoteloc.com/">RemoteLoc</a></h2>
-      A website created to help workers find locations in their city to work remotely
-
+      <h1><a href="http://remoteloc.com/" target="_blank">RemoteLoc</a></h1>
+      A website created to help workers find locations in their city to work remotely<br>
       <!-- Images -->
       <div class="port_box_img_container">
         <img src="images/port_remoteloc_1_sm.png" alt="Remote Loc" class="port_box_img_container_each">
@@ -84,35 +82,75 @@
 
 
     <div class="port_box">
-      <h2><a href="https://www.smartwaiver.com/">Smartwaiver</a></h2>
-      Five years of UI/UX, code development and design work
-
+      <h1><a href="https://www.smartwaiver.com/" target="_blank">Basecamp</a></h1>
+      Design Composition and video created as a mockup<br>
       <!-- Images -->
       <div class="port_box_img_container">
-        <img src="images/port_remoteloc_1_sm.png" alt="Remote Loc" class="port_box_img_container_each">
-        <img src="images/port_remoteloc_2_sm.png" alt="Remote Loc" class="port_box_img_container_each">
-        <img src="images/port_remoteloc_3_sm.png" alt="Remote Loc" class="port_box_img_container_each">
+        <img src="images/port_basecamp_1_sm.png" alt="Basecamp" class="port_box_img_container_each">
+        <img src="images/port_basecamp_2_sm.png" alt="Basecamp" class="port_box_img_container_each">
+      </div>
+    </div>
+
+
+
+    <div class="port_box">
+      <h1><a href="https://www.smartwaiver.com/" target="_blank">Smartwaiver</a></h1>
+      Five years of UI/UX, code development and design work<br>
+      <!-- Images -->
+      <div class="port_box_img_container">
+        <img src="images/port_smartwaiver_1_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
+        <img src="images/port_smartwaiver_2_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
+        <img src="images/port_smartwaiver_3_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
+        <img src="images/port_smartwaiver_4_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
+        <img src="images/port_smartwaiver_5_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
+        <img src="images/port_smartwaiver_6_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
+        <img src="images/port_smartwaiver_7_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
+        <img src="images/port_smartwaiver_8_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
+        <img src="images/port_smartwaiver_9_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
+        <img src="images/port_smartwaiver_10_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
+        <img src="images/port_smartwaiver_11_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
+        <img src="images/port_smartwaiver_12_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
+        <img src="images/port_smartwaiver_13_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
+        <img src="images/port_smartwaiver_14_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
+        <img src="images/port_smartwaiver_15_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
       </div>
     </div>
 
     <div class="port_box">
-      <h2><a href="http://www.drivefoil.com/">Drive Foil</a></h2>
-      Logo creation for carbon fiber website
+      <h1><a href="http://www.drivefoil.com/" target="_blank">Drive Foil</a></h1>
+      Logo creation for carbon fiber website<br>
+      <!-- Images -->
+      <div class="port_box_img_container">
+        <img src="images/port_drivefoil_1_sm.png" alt="Drive Foil" class="port_box_img_container_each">
+      </div>
     </div>
 
     <div class="port_box">
-      <h2>Paper Dolls</h2>
-      Logo creation for Bend, Oregon bookclub
+      <h1>Paper Dolls</h1>
+      Logo creation for Bend, Oregon bookclub<br>
+      <!-- Images -->
+      <div class="port_box_img_container">
+        <img src="images/port_paperdolls_1_sm.png" alt="Paper Dolls" class="port_box_img_container_each">
+      </div>
     </div>
 
     <div class="port_box">
-      <h2><a href="http://www.warriorwoodfins.com/">Warrior Wood Fins</a></h2>
-      A website to created and designed to sell handmade wooden surfboard fins
+      <h1><a href="http://www.warriorwoodfins.com/" target="_blank">Warrior Wood Fins</a></h1>
+      A website to created and designed to sell handmade wooden surfboard fins<br>
+      <!-- Images -->
+      <div class="port_box_img_container">
+        <img src="images/port_warriorwoodfins_1_sm.png" alt="Warrior Wood Fins" class="port_box_img_container_each">
+        <img src="images/port_warriorwoodfins_2_sm.png" alt="Warrior Wood Fins" class="port_box_img_container_each">
+      </div>
     </div>
 
     <div class="port_box">
-      <h2><a href="http://www.davetownfins.com/">Dave Town Fins</a></h2>
-      Created a website for fiberglass surfboard fins
+      <h1>Dave Town Fins</h1>
+      Created a website for fiberglass surfboard fins<br>
+      <!-- Images -->
+      <div class="port_box_img_container">
+        <img src="images/port_davetownfins_1_sm.png" alt="Dave Town Fins" class="port_box_img_container_each">
+      </div>
     </div>
   </div>
 </div>
