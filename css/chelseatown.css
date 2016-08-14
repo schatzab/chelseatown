@@ -64,7 +64,7 @@ h3 {
   height: 100%;
   background: #93c2d3;
   color: #ffffff;
-  text-align: left; }
+  /* text-align: left; */ }
 
 .container_inner {
   width: 80%;
@@ -163,8 +163,8 @@ h3 {
 .port_box_img_container_each {
   border: 0.5em solid #ffffff;
   margin: 2em;
-  width: 12em;
-  height: 12em;
+  width: 11.5em;
+  height: 11.5em;
   -moz-border-radius: 100px;
   -webkit-border-radius: 100px;
   border-radius: 100px; }

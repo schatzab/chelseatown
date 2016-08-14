@@ -76,9 +76,9 @@
 
       <!-- Images -->
       <div class="port_box_img_container">
-        <img src="images/port_remoteloc_1_sm.jpg" alt="Remote Loc" class="port_box_img_container_each">
-        <img src="images/port_remoteloc_2_sm.jpg" alt="Remote Loc" class="port_box_img_container_each">
-        <img src="images/port_remoteloc_3_sm.jpg" alt="Remote Loc" class="port_box_img_container_each">
+        <img src="images/port_remoteloc_1_sm.png" alt="Remote Loc" class="port_box_img_container_each">
+        <img src="images/port_remoteloc_2_sm.png" alt="Remote Loc" class="port_box_img_container_each">
+        <img src="images/port_remoteloc_3_sm.png" alt="Remote Loc" class="port_box_img_container_each">
       </div>
     </div>
 
@@ -86,12 +86,12 @@
     <div class="port_box">
       <h2><a href="https://www.smartwaiver.com/">Smartwaiver</a></h2>
       Five years of UI/UX, code development and design work
-      
+
       <!-- Images -->
       <div class="port_box_img_container">
-        <img src="images/port_remoteloc_1_sm.jpg" alt="Remote Loc" class="port_box_img_container_each">
-        <img src="images/port_remoteloc_2_sm.jpg" alt="Remote Loc" class="port_box_img_container_each">
-        <img src="images/port_remoteloc_3_sm.jpg" alt="Remote Loc" class="port_box_img_container_each">
+        <img src="images/port_remoteloc_1_sm.png" alt="Remote Loc" class="port_box_img_container_each">
+        <img src="images/port_remoteloc_2_sm.png" alt="Remote Loc" class="port_box_img_container_each">
+        <img src="images/port_remoteloc_3_sm.png" alt="Remote Loc" class="port_box_img_container_each">
       </div>
     </div>
 
