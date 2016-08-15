@@ -160,13 +160,19 @@ h3 {
   position: relative; }
 
 .port_box_img_container_each {
-  border: 0.5em solid #ffffff;
+  border: 0.5em solid white;
   margin: 2em;
+  -moz-border-radius: 110px;
+  -webkit-border-radius: 110px;
+  border-radius: 110px;
   width: 11.5em;
   height: 11.5em;
-  -moz-border-radius: 100px;
-  -webkit-border-radius: 100px;
-  border-radius: 100px; }
+  box-shadow: 0 0 0 0.5em rgba(255, 255, 255, 0);
+  transition: box-shadow 0.4s ease, border 0.4s ease; }
+
+.port_box_img_container_each:hover {
+  box-shadow: 0 0 0 0.5em rgba(255, 255, 255, 0.5);
+  border: 0.5em solid rgba(255, 255, 255, 0.5); }
 
 /* ==  WORK == */
 .work_main_container, .work_main_container_whitebg {
