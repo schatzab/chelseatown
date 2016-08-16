@@ -2,7 +2,7 @@
 var skills1 = ["JavaScript", "HTML5", "CSS", "PHP", "Ruby on Rails", "UI / UX", "jQuery", "Adobe Photoshop", "Adobe Illustrator", "Responsive Design", "Windows, MacOS, Mobile", "API"]; 
 var skills2 = ["Sass", "MySQL", "AngularJS", "Bootstrap", "Adobe InDesign", "Software Testing", "Start-up Experience", "WordPress", "Hardware", "ReactJS", "Sublime Text",  "GitHub"]; 
 
-// Skils Function
+// Skills Function
 function loadSkills() {
   for (var i = 0; i < skills1.length; i++) {
       document.getElementById("skills_loop").innerHTML += "<div class='skills_hi_lite'>" + skills1[i] + "<span>&#9733;&#9733;&#9733;&#9733;&#9733;</span></div>";

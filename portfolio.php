@@ -58,6 +58,7 @@
 
   <div class="top_bar_inner">
     <a href="/#work" class="nav_jump">Work</a>
+    <a href="/portfolio.php" class="nav_jump">Portfolio</a>
     <a href="/#skills" class="nav_jump">Skills</a>
     <a href="/#ref" class="nav_jump">Reference</a>
     <a href="/#about" class="nav_jump">About</a>
@@ -74,11 +75,10 @@
       A website created to help workers find locations in their city to work remotely<br>
       <!-- Images -->
       <div class="port_box_img_container">
-        <img src="images/port_remoteloc_1_sm.png" alt="Remote Loc" class="port_box_img_container_each">
-        <img src="images/port_remoteloc_2_sm.png" alt="Remote Loc" class="port_box_img_container_each">
-        <img src="images/port_remoteloc_3_sm.png" alt="Remote Loc" class="port_box_img_container_each">
+        <a href="/lg/img1.php"><img src="images/port_remoteloc_1_sm.png" alt="Remote Loc" class="port_box_img_container_each"></a>
+        <a href="/lg/img2.php"><img src="images/port_remoteloc_2_sm.png" alt="Remote Loc" class="port_box_img_container_each"></a>
+        <a href="/lg/img3.php"><img src="images/port_remoteloc_3_sm.png" alt="Remote Loc" class="port_box_img_container_each"></a>
       </div>
-    </div>
 
 
     <div class="port_box">
@@ -86,8 +86,8 @@
       Design Composition and video created as a mockup<br>
       <!-- Images -->
       <div class="port_box_img_container">
-        <img src="images/port_basecamp_1_sm.png" alt="Basecamp" class="port_box_img_container_each">
-        <img src="images/port_basecamp_2_sm.png" alt="Basecamp" class="port_box_img_container_each">
+        <a href="/lg/img4.php"><img src="images/port_basecamp_1_sm.png" alt="Basecamp" class="port_box_img_container_each"></a>
+        <a href="/lg/img5.php"><img src="images/port_basecamp_2_sm.png" alt="Basecamp" class="port_box_img_container_each"></a>
       </div>
     </div>
 
@@ -98,21 +98,21 @@
       Five years of UI/UX, code development and design work<br>
       <!-- Images -->
       <div class="port_box_img_container">
-        <img src="images/port_smartwaiver_1_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
-        <img src="images/port_smartwaiver_2_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
-        <img src="images/port_smartwaiver_3_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
-        <img src="images/port_smartwaiver_4_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
-        <img src="images/port_smartwaiver_5_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
-        <img src="images/port_smartwaiver_6_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
-        <img src="images/port_smartwaiver_7_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
-        <img src="images/port_smartwaiver_8_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
-        <img src="images/port_smartwaiver_9_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
-        <img src="images/port_smartwaiver_10_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
-        <img src="images/port_smartwaiver_11_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
-        <img src="images/port_smartwaiver_12_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
-        <img src="images/port_smartwaiver_13_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
-        <img src="images/port_smartwaiver_14_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
-        <img src="images/port_smartwaiver_15_sm.png" alt="Smartwaiver" class="port_box_img_container_each">
+        <a href="/lg/img6.php"><img src="images/port_smartwaiver_1_sm.png" alt="Smartwaiver" class="port_box_img_container_each"></a>
+        <a href="/lg/img7.php"><img src="images/port_smartwaiver_2_sm.png" alt="Smartwaiver" class="port_box_img_container_each"></a>
+        <a href="/lg/img8.php"><img src="images/port_smartwaiver_3_sm.png" alt="Smartwaiver" class="port_box_img_container_each"></a>
+        <a href="/lg/img9.php"><img src="images/port_smartwaiver_4_sm.png" alt="Smartwaiver" class="port_box_img_container_each"></a>
+        <a href="/lg/img10.php"><img src="images/port_smartwaiver_5_sm.png" alt="Smartwaiver" class="port_box_img_container_each"></a>
+        <a href="/lg/img11.php"><img src="images/port_smartwaiver_6_sm.png" alt="Smartwaiver" class="port_box_img_container_each"></a>
+        <a href="/lg/img12.php"><img src="images/port_smartwaiver_7_sm.png" alt="Smartwaiver" class="port_box_img_container_each"></a>
+        <a href="/lg/img13.php"> <img src="images/port_smartwaiver_8_sm.png" alt="Smartwaiver" class="port_box_img_container_each"></a>
+        <a href="/lg/img14.php"><img src="images/port_smartwaiver_9_sm.png" alt="Smartwaiver" class="port_box_img_container_each"></a>
+        <a href="/lg/img15.php"><img src="images/port_smartwaiver_10_sm.png" alt="Smartwaiver" class="port_box_img_container_each"></a>
+        <a href="/lg/img16.php"><img src="images/port_smartwaiver_11_sm.png" alt="Smartwaiver" class="port_box_img_container_each"></a>
+        <a href="/lg/img17.php"><img src="images/port_smartwaiver_12_sm.png" alt="Smartwaiver" class="port_box_img_container_each"></a>
+        <a href="/lg/img18.php"><img src="images/port_smartwaiver_13_sm.png" alt="Smartwaiver" class="port_box_img_container_each"></a>
+        <a href="/lg/img19.php"><img src="images/port_smartwaiver_14_sm.png" alt="Smartwaiver" class="port_box_img_container_each"></a>
+        <a href="/lg/img20.php"> <img src="images/port_smartwaiver_15_sm.png" alt="Smartwaiver" class="port_box_img_container_each"></a>
       </div>
     </div>
 
@@ -121,7 +121,7 @@
       Logo creation for carbon fiber website<br>
       <!-- Images -->
       <div class="port_box_img_container">
-        <img src="images/port_drivefoil_1_sm.png" alt="Drive Foil" class="port_box_img_container_each">
+        <a href="/lg/img21.php"><img src="images/port_drivefoil_1_sm.png" alt="Drive Foil" class="port_box_img_container_each"></a>
       </div>
     </div>
 
@@ -130,7 +130,7 @@
       Logo creation for Bend, Oregon bookclub<br>
       <!-- Images -->
       <div class="port_box_img_container">
-        <img src="images/port_paperdolls_1_sm.png" alt="Paper Dolls" class="port_box_img_container_each">
+        <a href="/lg/img22.php"><img src="images/port_paperdolls_1_sm.png" alt="Paper Dolls" class="port_box_img_container_each"></a>
       </div>
     </div>
 
@@ -139,8 +139,8 @@
       A website to created and designed to sell handmade wooden surfboard fins<br>
       <!-- Images -->
       <div class="port_box_img_container">
-        <img src="images/port_warriorwoodfins_1_sm.png" alt="Warrior Wood Fins" class="port_box_img_container_each">
-        <img src="images/port_warriorwoodfins_2_sm.png" alt="Warrior Wood Fins" class="port_box_img_container_each">
+        <a href="/lg/img23.php"><img src="images/port_warriorwoodfins_1_sm.png" alt="Warrior Wood Fins" class="port_box_img_container_each"></a>
+        <a href="/lg/img24.php"><img src="images/port_warriorwoodfins_2_sm.png" alt="Warrior Wood Fins" class="port_box_img_container_each"></a>
       </div>
     </div>
 
@@ -149,7 +149,7 @@
       Created a website for fiberglass surfboard fins<br>
       <!-- Images -->
       <div class="port_box_img_container">
-        <img src="images/port_davetownfins_1_sm.png" alt="Dave Town Fins" class="port_box_img_container_each">
+        <a href="/lg/img25.php"><img src="images/port_davetownfins_1_sm.png" alt="Dave Town Fins" class="port_box_img_container_each"></a>
       </div>
     </div>
   </div>
@@ -161,10 +161,10 @@
 <!--js-->
 <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="../js/returntotop.js" type="text/javascript"></script>
-<script src="../js/navscroll.js" type="text/javascript"></script>
-<script src="../js/showjob.js" type="text/javascript"></script>
-<script src="../js/showskills.js" type="text/javascript"></script>
+<script src="js/returntotop.js" type="text/javascript"></script>
+<script src="js/navscroll.js" type="text/javascript"></script>
+<script src="js/overlay.js" type="text/javascript"></script>
+<script src="js/showskills.js" type="text/javascript"></script>
 
 <!-- up arrow -->
 <link href='https://fonts.googleapis.com/css?family=Cinzel:700' rel='stylesheet' type='text/css'>
