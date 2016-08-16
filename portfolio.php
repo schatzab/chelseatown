@@ -75,9 +75,9 @@
       A website created to help workers find locations in their city to work remotely<br>
       <!-- Images -->
       <div class="port_box_img_container">
-        <a href="/lg/img1.php"><img src="images/port_remoteloc_1_sm.png" alt="Remote Loc" class="port_box_img_container_each"></a>
-        <a href="/lg/img2.php"><img src="images/port_remoteloc_2_sm.png" alt="Remote Loc" class="port_box_img_container_each"></a>
-        <a href="/lg/img3.php"><img src="images/port_remoteloc_3_sm.png" alt="Remote Loc" class="port_box_img_container_each"></a>
+        <a href="/lg/img3.php"><img src="images/port_remoteloc_1_sm.png" alt="Remote Loc" class="port_box_img_container_each"></a>
+        <a href="/lg/img1.php"><img src="images/port_remoteloc_2_sm.png" alt="Remote Loc" class="port_box_img_container_each"></a>
+        <a href="/lg/img2.php"><img src="images/port_remoteloc_3_sm.png" alt="Remote Loc" class="port_box_img_container_each"></a>
       </div>
 
 
