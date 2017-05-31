@@ -5,6 +5,17 @@
 	<div class="ref_main_container_inner">
 		<div class="ref_quote_l">"</div>		
 		<aside class="ref_main_box_text">
+			Chelsea Town has worked for three of my companies over the past 7 years. She is extremely reliable, a fast learner and always loved by her coworkers. Today Chelsea develops mission critical quality control scripts for our robotic systems. Her experience allows us to release upgrades weekly while trusting they’ll work perfectly.
+		</aside>	
+		<div class="ref_name">
+			<span class="ref_quote_l ref_quote_r">"</span><br>
+			<b>Mark Silliman</b><br>
+			CEO, Tend.ai
+		</div>			
+	</div>
+	<div class="ref_main_container_inner">
+		<div class="ref_quote_l">"</div>		
+		<aside class="ref_main_box_text">
 			Chelsea is an excellent designer and coder. She has worked on many projects for me over the years
 			 and is a joy to work with. Not only was she able to produce high quality work with a great 
 			attitude, but she is able to contribute in multiple areas to produce a great product including UI, UX, and software engineering. 
@@ -45,24 +56,12 @@
 	<div class="ref_main_container_inner">
 		<div class="ref_quote_l">"</div>		
 		<aside class="ref_main_box_text">
-			Kudos to Chelsea's solid QA.  It's harder to get an app past her than apple, she finds all my bugs ;-)
+			Kudos to Chelsea's solid QA.  It's harder to get an app past her than Apple, she finds all my bugs ;-)
 		</aside>	
 		<div class="ref_name">
 			<span class="ref_quote_l ref_quote_r">"</span><br>
 			<b>Jeremiah Konkle</b><br>
-			Freelance Developer, Seattle
-		</div>			
-	</div>
-	<div class="ref_main_container_inner">
-		<div class="ref_quote_l">"</div>		
-		<aside class="ref_main_box_text">
-			Chelsea, BOTH of our ads are BEAUTIFUL! We loved how they looked spread across the page! Every time Jeff gets complements about our
-			ads, he always says "The Nugget takes good care of us." That means YOU! 
-		</aside>	
-		<div class="ref_name">
-			<span class="ref_quote_l ref_quote_r">"</span><br>
-			<b>Gayle Rodrigues</b><br>
-			Client Accounts, Metolius Property Sales
+			Applications Engineer, Seattle
 		</div>			
 	</div>
 </div>

@@ -72,7 +72,7 @@
   <div class="container_inner">
     <div class="port_box">
       <h1><a href="http://remoteloc.com/" target="_blank">RemoteLoc</a></h1>
-      A website created to help workers find locations in their city to work remotely<br>
+      A way for workers to find well-suited locations in their city to work remotely<br>
       <!-- Images -->
       <div class="port_box_img_container">
         <a href="/lg/img3.php"><img src="images/port_remoteloc_1_sm.png" alt="Remote Loc" class="port_box_img_container_each"></a>
@@ -83,7 +83,7 @@
 
     <div class="port_box">
       <h1><a href="https://www.smartwaiver.com/" target="_blank">Basecamp</a></h1>
-      Design Composition and video created as a mockup<br>
+      Design compositions created as a mockup for the Basecamp interface<br>
       <!-- Images -->
       <div class="port_box_img_container">
         <a href="/lg/img4.php"><img src="images/port_basecamp_1_sm.png" alt="Basecamp" class="port_box_img_container_each"></a>
@@ -95,7 +95,7 @@
 
     <div class="port_box">
       <h1><a href="https://www.smartwaiver.com/" target="_blank">Smartwaiver</a></h1>
-      Five years of UI/UX, code development and design work<br>
+      A compilation of UI/UX, code development and design work for Smartwaiver.com<br>
       <!-- Images -->
       <div class="port_box_img_container">
         <a href="/lg/img6.php"><img src="images/port_smartwaiver_1_sm.png" alt="Smartwaiver" class="port_box_img_container_each"></a>
@@ -118,7 +118,7 @@
 
     <div class="port_box">
       <h1><a href="http://www.drivefoil.com/" target="_blank">Drive Foil</a></h1>
-      Logo creation for carbon fiber website<br>
+      A logo creation for the carbon fiber website Drive Foil<br>
       <!-- Images -->
       <div class="port_box_img_container">
         <a href="/lg/img21.php"><img src="images/port_drivefoil_1_sm.png" alt="Drive Foil" class="port_box_img_container_each"></a>
@@ -127,7 +127,7 @@
 
     <div class="port_box">
       <h1>Paper Dolls</h1>
-      Logo creation for Bend, Oregon bookclub<br>
+      A logo creation for the bookclub, Paper Dolls, located in Bend, Oregon<br>
       <!-- Images -->
       <div class="port_box_img_container">
         <a href="/lg/img22.php"><img src="images/port_paperdolls_1_sm.png" alt="Paper Dolls" class="port_box_img_container_each"></a>
@@ -136,7 +136,7 @@
 
     <div class="port_box">
       <h1><a href="http://www.warriorwoodfins.com/" target="_blank">Warrior Wood Fins</a></h1>
-      A website to created and designed to sell handmade wooden surfboard fins<br>
+      A website created and designed to sell handmade wooden surfboard fins<br>
       <!-- Images -->
       <div class="port_box_img_container">
         <a href="/lg/img23.php"><img src="images/port_warriorwoodfins_1_sm.png" alt="Warrior Wood Fins" class="port_box_img_container_each"></a>
@@ -146,7 +146,7 @@
 
     <div class="port_box">
       <h1>Dave Town Fins</h1>
-      Created a website for fiberglass surfboard fins<br>
+      A website created for fiberglass surfboard fins<br>
       <!-- Images -->
       <div class="port_box_img_container">
         <a href="/lg/img25.php"><img src="images/port_davetownfins_1_sm.png" alt="Dave Town Fins" class="port_box_img_container_each"></a>
