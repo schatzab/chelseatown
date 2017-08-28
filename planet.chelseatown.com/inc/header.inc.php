@@ -6,8 +6,8 @@
 	<div class="container_inner">
 		<div class="container_inner_header">
 			<div class="header_left">
-				<div class="head_text">Lonely Planet</div>
-				<h2>Working with Chelsea Town</h2>
+				<div class="head_text">Lonely Planet & Chelsea Town</div>
+				<h2>An excellent match...</h2>
 			</div>
 		</div>
 	</div>	
