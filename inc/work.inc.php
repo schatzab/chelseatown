@@ -10,11 +10,11 @@
 
 		<!-- Right Side -->
 		<div class="work_main_box_r">
-				<h1>Software & QA Engineer</h1>
+				<h1>Front End Engineer & QA</h1>
 				<div class="work_main_box_text">
-					I’m a female software engineer who loves to get her coding-nerd on, cheers when tough scripts work, and destroys with a vengeance when bugs appear.  My passion is coding and creating a solid user experience!
+					I’m a female web developer who loves to get her coding-nerd on, cheers when tough scripts work, and destroys with a vengeance when bugs appear! My passion and experience is in Front End coding and also QA Engineering.
 					<br><br>
-					For the last seven years I've worked as the Front End Developer and QA tester for several startup companies for products and applications. I wrote the code using Sublime Text, HTML, CSS, JavaScript, working in and out of the backend code, giving support for the company’s API and provided all QA testing with fix directions. I've worked with GitHub command prompt, provided WordPress technical support, Apple and Google application implementation,  Customer Support offering technical assistance to clients, and I've developed tutorial videos with my own voice-overs. On my own time I’ve taught myself PHP, Sass, Ruby on Rails, server setup/deployment, MySQL databases, Rhinoceros, CNC Machining, and Fusion 360.
+					For the last nine years I've worked as the Front End Developer and QA tester for several startup companies for products and applications. I wrote the code using Sublime Text, HTML, CSS, Sass, JavaScript, working in and out of the backend code (primarily PHP), giving support for the company’s API and provided all QA scripts and testing. I've worked with GitHub, provided WordPress technical support, Apple and Google application implementation,  Customer Support offering technical assistance to clients, and I've developed tutorial videos with voice-overs. Some of side interests are PHP, Ruby on Rails, server setup/deployment, databases, Rhinoceros, CNC Machining, VCarve Pro and Fusion 360.
 				</div>
 		</div>
 	</div>
@@ -27,7 +27,7 @@
 		<div class="work_main_box_l_whitebg">
 			<h1>Design UI/UX</h1>
 			<div class="work_main_box_text_whitebg">
-					Design is something I was formally educated in at UCSB, but I also believe it is a growing entity which changes and improves over time. I am skilled at the Adobe suite of software as my implementation tools and am always keeping an eye out for new inspirations and trends. My design background has given me a strong feel for the proper user experience in applications.
+					Design is something I received my degree in at UCSB. I am very familiar with the Adobe Suite software as my implementation tools and am always keeping an eye out for new inspirations and trends. My design background has given me a strong feel for the proper user experience in applications.
 					<br><br>
 					Since 1996 I've been teaching myself how to write code for the web, learn new technologies, as well as create my own designs and develop/test with UI/UX in mind.  I've worked with individuals and companies with their design scheme, joined forces with Marketing for strong UI/UX, and maintained software testing.
 					<br><br>

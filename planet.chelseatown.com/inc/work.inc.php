@@ -1,4 +1,4 @@
-<!-- ABOUT -->
+﻿<!-- ABOUT -->
 
 <!-- Software Engineer -->
 <div class="work_main_container" id="work" name="work">
@@ -10,7 +10,7 @@
 
 		<!-- Right Side -->
 		<div class="work_main_box_r">
-				<h1>Software & QA Engineer</h1>
+				<h1>Where I've Traveled</h1>
 				<div class="work_main_box_text">
 					I’m a female software engineer who loves to get her coding-nerd on, cheers when tough scripts work, and destroys with a vengeance when bugs appear.  My passion is coding and creating a solid user experience!
 					<br><br>

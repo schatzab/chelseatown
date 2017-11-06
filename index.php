@@ -54,11 +54,6 @@
 	
 <!-- header -->
 <?php include("inc/header.inc.php"); ?>
-
-
-<!-- <div id="searchcontrol">Loading</div> -->
-
-
 <!-- work -->	
 <?php include("inc/work.inc.php"); ?>	
 <!-- Skills -->		

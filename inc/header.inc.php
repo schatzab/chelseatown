@@ -7,7 +7,7 @@
 		<div class="container_inner_header">
 			<div class="header_left">
 				<div class="head_text">Chelsea Town</div>
-				<h2>Software & QA Engineer</h2>
+				<h2>Front End Engineer</h2>
 			</div>
 		</div>
 	</div>	

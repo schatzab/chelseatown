@@ -1,6 +1,6 @@
 // Show Skills
-var skills1 = ["CSS", "HTML", "JavaScript", "PHP", "Ruby on Rails", "Ghost Inspector", "UI / UX", "Bootstrap", "Adobe Photoshop", "Adobe Illustrator", "VCarve Pro", "Responsive Design", "Windows, MacOS, Mobile", "API"]; 
-var skills2 = ["Sass", "MySQL", "Rhinoceros", "QA", "Adobe InDesign", "Software Testing", "npm", "Fusion360", "Start-up Experience", "WordPress", "Hardware", "ReactJS", "Sublime Text",  "GitHub"]; 
+var skills1 = ["CSS", "HTML", "PHP", "Ruby on Rails", "Ghost Inspector", "UI / UX", "Responsive Design", "Adobe InDesign", "VCarve Pro", "Sublime Text", "CNC Machining"]; 
+var skills2 = ["JavaScript", "Sass", "MySQL", "Rhinoceros", "QA", "Adobe Illustrator", "Adobe Photoshop", "Fusion360", "Start-up Experience", "WordPress", "System Building", "ReactJS", "GitHub"]; 
 
 // Skills Function
 function loadSkills() {
