@@ -2,7 +2,7 @@
 
 <section class="skills_main_container" id="skills" name="skills">
 	<br><br>
-	<h1>Some Skills I'm Proud Of</h1>	
+	<h1>Chelsea's Skills & Software</h1>	
     <!-- modify skills in JS -->
 	<article class="skills_main_container_inner">
 		<h2>
