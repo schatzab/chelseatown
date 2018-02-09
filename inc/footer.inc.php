@@ -4,8 +4,8 @@
 		<div class="footer_main_box">
 			<div class="footer_main_box_header">Contact</div>
 			<div class="footer_main_box_text">
-				Two of my favorite things: code and coffee.<br>
-				Let's put them together and discuss!
+				I love a good coffee and chat!<br>
+				Let's get together and discuss!
 				<br><br>
 				<script language=javascript>
 				<!--
@@ -30,9 +30,9 @@
 					GitHub &nbsp; <img src="images/icon_github.png" style="width:30px; padding: 0 0 0 2.3em;" valign="-0.7em">
 				</a>
 				<br><br>
-				<a href="http://www.remoteloc.com" target="_blank">
+				<!-- <a href="http://www.remoteloc.com" target="_blank">
 					RemoteLoc
-				</a>
+				</a> -->
 			</div>
 		</div>
 	</div>
