@@ -5,7 +5,7 @@
 	<div class="work_main_container_inner">
 		<!-- Left Side -->
 		<div class="work_main_box_l">
-			<a href="http://remoteloc.com/"><img src="images/workbox_1.jpg" class="workbox_img"></a>
+			<img src="images/workbox_1.jpg" class="workbox_img">
 		</div>
 
 		<!-- Right Side -->
